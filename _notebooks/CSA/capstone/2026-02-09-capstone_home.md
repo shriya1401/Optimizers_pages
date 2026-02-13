@@ -14,7 +14,7 @@ sticky_rank: 1
 
 <h2> Design-Based Research (DBR) Capstone Projects </h2>
 
-These capstone projects follow the **DBR methodology**: iterative cycles of design, implementation, and analysis to solve complex, real-world problems. Each project produces both an effective intervention and reusable design principles.
+These capstone projects follow the **DBR methodology**: iterative cycles of design, implementation, and analysis to solve complex, real-world problems. Each project produces both an effective intervention and reusable design principles. 
 
 <div class="my-4">
  <ul class="list-disc list-inside space-y-1">
@@ -29,7 +29,7 @@ These capstone projects follow the **DBR methodology**: iterative cycles of desi
 
 {%- include tailwind/infograph.html -%}
 
-<h2> DBR Framework </h2>
+<h2>DBR Framework</h2>
 
 Each project brief should address the following DBR components:
 
