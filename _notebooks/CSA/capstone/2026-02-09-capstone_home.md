@@ -11,7 +11,7 @@ categories: [Capstone]
 permalink: /capstone/
 sticky_rank: 1
 ---
-
+## Main home page for all infographic pages
 <h2> Design-Based Research (DBR) Capstone Projects </h2>
 
 These capstone projects follow the **DBR methodology**: iterative cycles of design, implementation, and analysis to solve complex, real-world problems. Each project produces both an effective intervention and reusable design principles. 
