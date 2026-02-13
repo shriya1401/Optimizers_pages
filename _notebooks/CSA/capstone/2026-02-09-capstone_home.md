@@ -29,7 +29,7 @@ These capstone projects follow the **DBR methodology**: iterative cycles of desi
 
 {%- include tailwind/infograph.html -%}
 
-<h2>DBR Framework</h2>
+<h2> DBR Framework </h2>
 
 Each project brief should address the following DBR components:
 
